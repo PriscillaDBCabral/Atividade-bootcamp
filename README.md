@@ -32,3 +32,28 @@ Seu impacto vai muito além das missões espaciais bem-sucedidas. Como mentora e
 
 * SHETTERLY, Margot Lee. **Estrelas além do tempo:** A história das mulheres negras da NASA que ajudaram a vencer a corrida espacial. Rio de Janeiro: HarperCollins, 2016.
 * NASA. **Dorothy Vaughan Biography**. Disponível no portal oficial da NASA.
+
+# Aprendizados sobre Git e GitHub
+
+Este espaço foi reservado para documentar os conceitos fundamentais e comandos práticos absorvidos durante o gerenciamento deste projeto.
+
+---
+
+## Entendendo as Ferramentas
+
+Ficou clara a diferença entre o papel de cada uma dessas tecnologias na rotina de desenvolvimento:
+
+* **Git:** É o sistema de controle que roda diretamente no computador. Ele funciona como uma máquina do tempo, rastreando as alterações nos arquivos e permitindo criar históricos de salvamento do projeto.
+* **GitHub:** É a plataforma em nuvem onde hospedamos esses repositórios. Ele serve para guardar os projetos online, compartilhar o código e facilitar o trabalho em equipe.
+
+---
+
+## Comandos Essenciais
+
+Abaixo estão os principais comandos utilizados para organizar e salvar o progresso do trabalho de forma segura:
+
+* **git init:** Cria um repositório Git local dentro da pasta do projeto, iniciando o rastreamento dos arquivos.
+* **git clone:** Faz o download e copia um repositório que já existe no GitHub para o computador.
+* **git add:** Seleciona e prepara os arquivos modificados para o próximo salvamento (coloca as alterações na área de *staging*).
+* **git commit -m "mensagem":** Salva permanentemente as alterações preparadas no histórico do projeto, acompanhado de uma mensagem breve sobre o que foi feito.
+* **git push:** Envia todos os salvamentos (commits) feitos no computador para o repositório online no GitHub.
